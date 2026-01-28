@@ -16,5 +16,16 @@ Symulation1.R, the R file for the replicability of the first synthetic dataset. 
 
 Symulation2.R, the R file for the replicability of the second synthetic dataset. In the first block is considered the Bayesian logistic model. In the second block is considered the Bayesian HMM and the frequentist logistic model, including for the first the multimodel framework and the model averaging.
 
+----------------------------
+
+Replicability folder: Replicability for real data application
+
+----------------------------
+
+This folder contains: 
+
+the real dataset, which is divided in X_complete_new and Y_matrix_missing, and the Real_data.R script, which includes all the models described in the paper and all the F-score versions used. 
+
+
 
 
