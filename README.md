@@ -25,9 +25,9 @@ Replicability folder: Replicability for real data application
 This folder contains: 
 
 the real dataset used, which is divided in X_complete_new and Y_matrix_missing, and the Real_data.R script, which includes all the models described in the paper and all the F-score versions used. The original dataset was proposed in: 
-Pigini, C. (2021), Penalized maximum likelihood estimation of logit-based early warning systems, International Journal of Forecasting 37, 1156–1172. 
+"Pigini, C. (2021), Penalized maximum likelihood estimation of logit-based early warning systems, International Journal of Forecasting 37, 1156–1172". 
 The original definition of the response variable can be found in: 
-Laeven, M. L. & Valencia, M. F. (2018), Systemic banking crises revisited, International Monetary Fund.
+"Laeven, M. L. & Valencia, M. F. (2018), Systemic banking crises revisited, International Monetary Fund".
 
 
 
